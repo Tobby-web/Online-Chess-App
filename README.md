@@ -1,2 +1,2 @@
 # Online-Chess-App
-Need guide with building an online Chess app
+Need guide with building an online Chess app from scratch
